@@ -1,2 +1,3 @@
 # hello-world
-lol
+This is my first git bullshit
+
